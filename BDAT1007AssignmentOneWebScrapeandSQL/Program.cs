@@ -7,12 +7,11 @@ namespace BDAT1007AssignmentOneWebScrapeandSQL
     {
         static void Main(string[] args)
         {
-            static void Main(string[] args)
-            {
+
                 FromSeatGeek.GetHtmlAsync();
                 Console.WriteLine("Job done, press any key and enter to continue");
                 Console.ReadLine();
-            }
+
         }
     }
 }

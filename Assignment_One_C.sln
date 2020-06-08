@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BDAT1007AsgOneWebApp", "BDAT1007AsgOneWebApp\BDAT1007AsgOneWebApp.csproj", "{B5AA4032-201F-440E-98C9-F7DA0AA875FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDAT1007AssignmentOneWebScrapeandSQL", "BDAT1007AssignmentOneWebScrapeandSQL\BDAT1007AssignmentOneWebScrapeandSQL.csproj", "{A711968B-41EB-4F30-AC66-FC6B65A9A980}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BDAT1007AsgWebScrapeandSQL", "BDAT1007AssignmentOneWebScrapeandSQL\BDAT1007AsgWebScrapeandSQL.csproj", "{A711968B-41EB-4F30-AC66-FC6B65A9A980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDAT1007AsgOne", "BDAT1007AsgOne\BDAT1007AsgOne.csproj", "{D3F207D9-0D19-4D79-9D00-8CF2799833A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A711968B-41EB-4F30-AC66-FC6B65A9A980}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A711968B-41EB-4F30-AC66-FC6B65A9A980}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A711968B-41EB-4F30-AC66-FC6B65A9A980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F207D9-0D19-4D79-9D00-8CF2799833A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F207D9-0D19-4D79-9D00-8CF2799833A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F207D9-0D19-4D79-9D00-8CF2799833A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F207D9-0D19-4D79-9D00-8CF2799833A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
